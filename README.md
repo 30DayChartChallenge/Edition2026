@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 ![](img/announcement-landscape.png)
 
 <p align="center">
