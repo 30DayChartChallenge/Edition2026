@@ -19,7 +19,7 @@ hashtag #30DayChartChallenge
 [<img src="img/Bluesky_Logo.svg" style="width: 3%; height: auto;"/>](https://bsky.app/profile/30daychartchall.bsky.social)
 
 ![](img/prompts.png)
-
+<!--
 → [List of
 Topics](list_prompts.md)
 
